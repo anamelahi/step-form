@@ -1,0 +1,23 @@
+.input-section{
+    padding-top: 5vh;
+    padding-right:15vh;
+    gap: 5vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* button */
+.btn{
+    background-color: #282828;
+    width: 95%;
+    height: 8.5vh;
+    border: none;
+    color:white;
+    font-family: Poppins;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.btn:active{
+    scale: 0.99;
+}

@@ -1,0 +1,16 @@
+.finalpage p{
+    font-weight: 300;
+    font-size: 3vh;
+}
+
+button{
+    margin-top: 4vh;
+    background-color: #1b1b1b;
+    width: 10vw;
+    height: 8vh;
+    border: none;
+    color:white;
+    font-family: Poppins;
+    font-size: 14px;
+    border-radius: 10px;
+}
